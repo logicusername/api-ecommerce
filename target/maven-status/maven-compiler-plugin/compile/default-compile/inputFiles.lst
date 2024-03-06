@@ -2,6 +2,7 @@ C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedo
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\repository\ProductRepository.java
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\service\ProductService.java
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\service\ProductServiceImpl.java
+C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\config\CORSConfig.java
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\exception\ProductNotFoundException.java
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\controller\Response.java
 C:\Users\admin\Desktop\spring\ecommercedos\src\main\java\com\example\ecommercedos\EcommercedosApplication.java

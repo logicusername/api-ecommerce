@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.ecommercedos.EcommercedosApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.28 s -- in com.example.ecommercedos.EcommercedosApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.28 s -- in com.example.ecommercedos.EcommercedosApplicationTests
